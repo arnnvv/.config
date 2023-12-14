@@ -1,4 +1,4 @@
-# Common recent settings file for Wireshark 4.0.10.
+# Common recent settings file for Wireshark 4.2.0.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -27,14 +27,6 @@ gui.geometry_main_maximized: FALSE
 # Leftalign Action Buttons.
 # TRUE or FALSE (case-insensitive).
 gui.geometry_leftalign_actions: FALSE
-
-# Statusbar left pane size.
-# Decimal number.
-gui.geometry_status_pane: 250
-
-# Statusbar middle pane size.
-# Decimal number.
-gui.geometry_status_pane_right: 250
 
 # Last used Configuration Profile.
 gui.last_used_profile: Default
