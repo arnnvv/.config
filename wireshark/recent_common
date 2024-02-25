@@ -1,4 +1,4 @@
-# Common recent settings file for Wireshark 4.2.0.
+# Common recent settings file for Wireshark 4.2.3.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -7,7 +7,7 @@
 ######## Recent capture files (latest last), cannot be altered through command line ########
 
 
-######## Recent capture filters (latest last), cannot be altered through command line ########
+######## Recent capture filters (latest first), cannot be altered through command line ########
 
 
 ######## Recent display filters (latest last), cannot be altered through command line ########
